@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning React & Express JS<br>💬 Ask me about react<br>📫 How to reach me sharmajaybabu194@gmail.com<br>📄 Know about my [experiences](https://drive.google.com/file/d/1nbMOWXSqVwvp9qSKL4Cq9JwZRikcJBIc/view?usp=sharing)<br>⚡ Fun fact --> I am very funny 😅
+🌱 I’m currently learning React & Express JS<br>💬 Ask me about react<br>📫 How to reach me sharmajaybabu194@gmail.com<br>📄 Know about my [experiences]([https://drive.google.com/file/d/1nbMOWXSqVwvp9qSKL4Cq9JwZRikcJBIc/view?usp=sharing](https://drive.google.com/file/d/1E6nGQDY6JD03U980q-S_6vLFuE_pNYrJ/view?usp=sharing))<br>⚡ Fun fact --> I am very funny 😅
 
 
 ## 🌐 Socials:
